@@ -4,7 +4,7 @@ import olympe
 import numpy as np
 
 #Olympe drone object
-drone = Drone("192.168.42.1")  #Replace with your drone's actual IP address
+drone = Drone("10.202.0.1")  #Replace with your drone's actual IP address
 
 #GUI functions
 def connect_to_drone():

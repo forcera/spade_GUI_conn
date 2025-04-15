@@ -1,4 +1,0 @@
-numpy==1.24.4
-parrot-olympe==7.7.4
-PySDL2==0.9.16
-PyOpenGL
